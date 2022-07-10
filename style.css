@@ -1,0 +1,38 @@
+.bg_color{
+    text-align: center;
+}
+.bg_color h1{
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Arima', cursive;
+    font-size: 35px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: antiquewhite;
+}
+.foot_text p{
+    line-height: 100px;
+    text-align: center;
+    font-family: 'Arima', cursive;
+    color: black;
+    font-size: 17px;
+}
+.btn{
+    text-align: center;
+    margin-top: 300px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Arima', cursive;
+    background-color: antiquewhite;
+    color: black;
+    padding: 10px 15px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
